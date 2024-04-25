@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59869125169",
+    "project_id": "apphoanchinh",
+    "storage_bucket": "apphoanchinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59869125169:android:f18cd5c73fe2f91cfcd310",
+        "android_client_info": {
+          "package_name": "com.example.appdoan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFeHCeXFOLu9EiRfowxmaae358CILf5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
